@@ -9614,6 +9614,10 @@ textarea.form-control {
   border-radius: 10px;
   height: 40px;
 }
+
+.head-img > *:(.header-text){
+  -webkit-filter: blur(10px);
+}
 .header-text{
   font-family: "Ailerons";
   font-size: 190%;
